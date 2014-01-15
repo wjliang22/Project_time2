@@ -1,0 +1,57 @@
+#main-content {
+  padding: 20px;
+  height: 250 px;
+}
+
+body {
+  background-image: url(/Users/dpl-epsilon/sites/Project_time2/houston.jpg);
+  color: #C0C0C0; 
+}
+
+h1 {
+  color: steelblue;
+  text-align: center;
+}
+
+li:hover {
+  color: #FFD700;
+}
+
+a {
+  color: #FFA500;
+}
+
+a:visited {
+  color: #FFFF00;
+}
+
+footer {
+  font-size: 200%;
+}
+
+.first_pic {
+  margin-left: auto;
+  margin-right: auto;
+  width: 72%;
+  height: 72%;
+  background-image: url(/Users/dpl-epsilon/sites/Project_time2/Lin_hover.jpg);
+}
+
+.original_pic:hover {
+  visibility: hidden;
+}  
+
+html {
+  text-align: center;
+}
+
+
+/*
+.second_pic {
+  visibility: hidden;
+}
+
+.second_pic:hover {
+  visibility: visible;
+}
+*/
